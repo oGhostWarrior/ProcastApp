@@ -1,0 +1,10 @@
+{
+	"appId": "uk.infy.webviews",
+	"appName": "NaoProcastineApp",
+	"webDir": "wwww",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "https://webviews.infy.uk",
+		"cleartext": true
+	}
+}
